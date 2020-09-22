@@ -1,1 +1,2 @@
-FROM gcr.io/kaniko-project/executor:latest
+FROM ubuntu
+ENTRYPOINT ["/bin/bash", "-c", "echo hello"]
