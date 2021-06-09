@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/ingress-nginx/controller:v0.43.0
-MAINTAINER polarwu <774758992@qq.com>
+MAINTAINER Morride <774758992@qq.com>
